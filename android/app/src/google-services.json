@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410445604211",
+    "firebase_url": "https://ticktickfbauthdb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ticktickfbauthdb",
+    "storage_bucket": "ticktickfbauthdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410445604211:android:4a3e0a275c54b5222f9106",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410445604211-odm4cots4ubqqgdf6qoneboosdafm3ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_app",
+            "certificate_hash": "2cec49597da738d73b4c26849da212aac4906418"
+          }
+        },
+        {
+          "client_id": "410445604211-t1kcpgkgbh5o4fihg76pqst5a683d2gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkKQKIitZqXi3j-Yue35CfQhX_GMRH_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410445604211-9via6k595ugc63c52ifonffuckmrg28u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
