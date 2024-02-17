@@ -1,6 +1,9 @@
 # 🔥 Todo App
 
-An App To manage all your tasks with firebase backend.
+- A cross-platform application made for people suffering from dementia and Alzheimer's that works as a reminder for their medicines and doctor appointments
+- Has the potential to impact 55 million+ people in the world suffering from dementia.
+- I worked on the UI and UX design and frontend implementation using Flutter, HTML, and CSS.
+- Toolkit: HTML, CSS, Flutter, MongoDB, Firebase, Canva, Dart.
 
 Star⭐ the repo if you like what you see😉.
 
